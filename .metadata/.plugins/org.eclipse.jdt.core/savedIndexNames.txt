@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\Users\student\Documents\GitHub\zajjava\.metadata\.plugins\org.eclipse.jdt.core
+101253277.index
